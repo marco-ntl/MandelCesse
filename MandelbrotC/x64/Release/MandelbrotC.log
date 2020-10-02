@@ -1,0 +1,46 @@
+﻿  mandelbrot.c
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\palettes.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(54,30): warning C4101: 'result': unreferenced local variable
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(80,81): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(81,81): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(82,81): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(129,49): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(234,65): warning C4244: 'function': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(255,74): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(309,119): warning C4244: 'function': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(351,50): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(354,74): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(363,16): warning C4267: 'function': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(363,19): warning C4267: 'function': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(377,29): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(377,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(378,29): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(378,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(388,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(388,24): message : consider using '%lld' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(388,24): message : consider using '%Id' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(388,24): message : consider using '%I64d' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(415,58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(436,56): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(459,55): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(471,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(471,24): message : consider using '%lld' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(471,24): message : consider using '%Id' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(471,24): message : consider using '%I64d' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(498,29): warning C4087: 'glfwTerminate': declared with 'void' parameter list
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(448,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(515,51): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(532,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(532,9): message : consider using '%lld' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(532,9): message : consider using '%Id' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(532,9): message : consider using '%I64d' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(544,16): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(544,16): message : consider using '%lld' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(544,16): message : consider using '%Id' in the format string
+C:\Users\PC GENERAL\source\repos\MandelbrotC\MandelbrotC\mandelbrot.c(544,16): message : consider using '%I64d' in the format string
+  Generating code
+  1 of 56 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MandelbrotC.vcxproj -> C:\Users\PC GENERAL\source\repos\MandelbrotC\x64\Release\MandelbrotC.exe
