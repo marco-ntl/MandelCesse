@@ -345,8 +345,6 @@ void renderMandelbrot(int width, int height) {
 		glBegin(GL_POINTS);
 		for (size_t y = 0; y < height; y++)
 		{
-			if (x == width / 2 && y == height / 2)
-				printf("mabite");
 			currIntensity = world->data[x * height + y];
 			if (isnan(currIntensity) || currIntensity > world->settings.maxIterations )
 				currIntensity = world->settings.maxIterations;
